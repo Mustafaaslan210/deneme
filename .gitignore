@@ -1,0 +1,28 @@
+# IDE - VSCde   
+# echo some-text or nothing > .gitignore
+
+.VSCode/*    
+!.VSCode/settings.json
+!.VSCode/tasks.json
+!.VSCode/launch.json
+!.VSCode/extensions.json    
+
+# FB IMG /
+# jpg
+*.png
+img/
+git
+# videos
+*.mp4
+# prj.html
+
+# packages
+
+# log
+
+*.bash_history
+
+*.ntuser.ini
+*.ntuser.dat.LOG2
+*.Saved Games/
+*.OneDrive
